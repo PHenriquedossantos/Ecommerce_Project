@@ -1,0 +1,1 @@
+Projeto Django de um ecommerce.
